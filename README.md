@@ -13,11 +13,11 @@ The goal of this project is to refresh, implement, and showcase an application o
 
 #### The main questions I aim to answer in this project are below, with links to their associated queries:
 
-1. [What are the top paying remote data analyst jobs?](project_queries\top_paying_data_jobs.sql)
-2. [What skills are required for these top paying jobs?](project_queries\top_paying_data_skills.sql)
-3. [What skills are most in demand for data analysts?](project_queries\most_desirable_data_skills.sql)
-4. [Which skills are associated with higher salaries](project_queries\generally_high_paying_data_skills.sql)
-5. [What are the most optimal skills for a data analyst to learn in terms of both high demand and pay?](project_queries\optimal_data_skills_to_learn.sql)
+1. [What are the top paying remote data analyst jobs?](/project_queries/top_paying_data_jobs.sql)
+2. [What skills are required for these top paying jobs?](/project_queries/top_paying_data_skills.sql)
+3. [What skills are most in demand for data analysts?](/project_queries/most_desirable_data_skills.sql)
+4. [Which skills are associated with higher salaries](/project_queries/generally_high_paying_data_skills.sql)
+5. [What are the most optimal skills for a data analyst to learn in terms of both high demand and pay?](/project_queries/optimal_data_skills_to_learn.sql)
 
 *Additionally, [here](/practice_queries/) is a link to some practice queries, where I was refreshing my SQL techniques.*
 
@@ -35,7 +35,7 @@ I utilized the following seven tools to query and analyze my data:<br>
 # The Analysis
 Here we'll re-iterate the questions we want answered from the dataset, followed by an in-depth interpretation of the results of our query.  The queries themselves will be posted for reference, as well as a link to the original query made available in its respective subheader.
 
-### [What are the top paying remote data analyst jobs?](project_queries\top_paying_data_jobs.sql)
+### [What are the top paying remote data analyst jobs?](/project_queries/top_paying_data_jobs.sql)
 <details>
 <summary>Click to expand/collapse</summary>
 
@@ -86,7 +86,7 @@ LIMIT 10;
 Long-term prospects for this career seem positive at first glance.  This query gives an initial impression that there are a multitude of employers looking for data analysts in 2023.  With enough time and experience, it seems reasonable for a data analyst to breach 6 figures eventually as well, which is in the top 10% of earners in the USA as of 2021 as per [investopedia](https://www.investopedia.com/personal-finance/how-much-income-puts-you-top-1-5-10/).  To reach these peek salary levels though, experience, especially with tools related to big data, may be a necessary skillset to fully reach this potential.
 </details>
 
-### [What skills are required for these top paying jobs?](project_queries\top_paying_data_skills.sql)
+### [What skills are required for these top paying jobs?](/project_queries/top_paying_data_skills.sql)
 <details>
 <summary>Click to expand/collapse</summary>
 
@@ -158,7 +158,7 @@ LIMIT 10;
 SQL is the premier analasis tool across all high-paying data analyst jobs, followed closely by Python.  Near equally important, however, is the data visualization tool, Tableau, which enables the analyst to create dashboards to better share and distribute their data-borne findings amongst their coworkers.  This makes sense considering that an analyst's role is to not only interpret data, but also to share those insights with others to help guide their company and team in the right direction!  Additionally, it seems important to learn at least one cloud-based data management tool at a high level for these higher paying roles.  That's not too surprising given the rise of off-premise data storage and disaster recovery options lately.
 </details>
 
-### [What skills are most in demand across all data analyst jobs?](project_queries\most_desirable_data_skills.sql)
+### [What skills are most in demand across all data analyst jobs?](/project_queries/most_desirable_data_skills.sql)
 <details>
 <summary>Click to expand/collapse</summary>
 
@@ -209,7 +209,7 @@ LIMIT 5;
 Similar to when we focused on only the top ten highest paying data analyst jobs, SQL and Python are held in high esteem as the most desirable data skills by all hiring employers.  Python fell in importance by one rank relative to the top ten job skills ranking, but given that it's a programming language that fewer might be expected to know in junior and mid-level data analyst jobs, it's not too surprising to see a popular data tool like Excel outrank it.  On top of that, data visualization continues to be important regardless of job experience level, since it understandably remains important to be able to convey data findings to your company and team.
 </details>
 
-### [Which skills are associated with higher salaries](project_queries\generally_high_paying_data_skills.sql)
+### [Which skills are associated with higher salaries](/project_queries/generally_high_paying_data_skills.sql)
 <details>
 <summary>Click to expand/collapse</summary>
 
@@ -265,7 +265,7 @@ LIMIT 10;
 Given Pyspark and Panda's relation to Python, this query seems to support the notion that Python is a heavily desired programming language for Data Analysts - especially to reach higher salary brackets in the career.  The rest of the skills are largely foreign to me, and suggest a need to study up on them to broaden my horizons!  That said, all of the skills listed here don't seem to be very in-demand, implying learning them is more niche and dependant on the role the analyst wishes to pursue, grow, or apply themselves towards.
 </details>
 
-### [What are the most optimal skills for a data analyst to learn in terms of both high demand and pay?](project_queries\optimal_data_skills_to_learn.sql)
+### [What are the most optimal skills for a data analyst to learn in terms of both high demand and pay?](/project_queries/optimal_data_skills_to_learn.sql)
 <details>
 <summary>Click to expand/collapse</summary>
 
