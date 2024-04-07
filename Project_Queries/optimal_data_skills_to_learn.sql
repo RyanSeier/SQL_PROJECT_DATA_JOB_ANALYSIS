@@ -27,4 +27,4 @@ HAVING
     COUNT(skills) > 30
 ORDER BY
     avg_skill_salary DESC
-LIMIT 20;
+LIMIT 10;

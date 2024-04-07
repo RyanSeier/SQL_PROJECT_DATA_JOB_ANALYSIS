@@ -27,5 +27,4 @@ LEFT JOIN
     ON skills_dim.skill_id = job_skill_count.skill_id
 ORDER BY
     skill_count DESC
-LIMIT 5
-;
+LIMIT 5;

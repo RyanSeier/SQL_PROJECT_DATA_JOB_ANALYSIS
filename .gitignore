@@ -1,5 +1,4 @@
 /.vscode
-
 # Datasets too large to upload, adding to ignore
 /Datasets
 # SQL file used to generate project questions, redundant to have
